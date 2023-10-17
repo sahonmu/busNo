@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">버스노선 찾기</string>
+
+    <string name="google_maps_api_key">aa</string>
+
+    <string name="intent_key_bus_id">busId</string>
+    <string name="message_input_bus_no">버스노선을 입력하세요.</string>
+
+    <string name="bus_no_name">%1$s / %2$s</string>
+    <string name="bus_no_route">%1$s &lt;-> %2$s</string>
+    <string name="bus_no_operation">%1$s ~ %2$s</string>
+    <string name="bus_no_interval">배차 간격 %1$s</string>
+
+</resources>

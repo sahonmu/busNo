@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="height_title_bar">56dp</dimen>
+
+    <dimen name="height_station_summary">190dp</dimen>
+    <dimen name="translate_station_summary">214dp</dimen> <!-- 써머리뷰 높이에서 + 24dp(바텀마진) -->
+
+</resources>
